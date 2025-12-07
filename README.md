@@ -22,3 +22,13 @@ Este projeto tem como objetivo o desenvolvimento de uma API REST para gerenciame
 - GitHub
 
 ---
+
+Como rodar:
+1. npm install
+2. Criar arquivo .env com as configurações do banco
+3. npm start
+
+Rotas:
+- POST /login
+- CRUD de pacientes em /pacientes
+
